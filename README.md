@@ -1,4 +1,4 @@
-![Banner](https://chatgpt.com/backend-api/estuary/content?id=file_000000004f447207a37ae0955d71f34a&ts=493838&p=fs&cid=1&sig=6be242e2bcba85834e951b51aad3beb0a00138f43a4a8e149955bb21bd64928b&v=0)
+![Banner](banner.png)
 ## 😎 I'm Rohit!
 
 💻 Data Engineer
