@@ -1,4 +1,4 @@
-![Banner](Rohit Git poster.png)
+![Banner](banner.png)
 ## 😎 I'm Rohit!
 
 💻 Data Engineer
