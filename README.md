@@ -18,5 +18,5 @@
 - ## 🌐 Connect with me
 - 📧 Email: rohitsatre943@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rohit-satre-5a8526316/
-- 🌍 Portfolio:(https://rohitsatre997-lang.github.io/Portfolio/)
+- 🌍 Portfolio: https://rohitsatre997-lang.github.io/Portfolio/
 - <img src="GIF-LINK" width="200"/>
